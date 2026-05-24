@@ -54,8 +54,8 @@
 ## 🛠 Установка
 
 ```bash
-git clone https://github.com/yourname/mv-fps
-cd mv-fps
+git clone https://github.com/nebullaq-spec/masscan-async
+cd masscan-async
 pip install colorama
 ```
 
@@ -88,7 +88,7 @@ OUTPUT_DIR  = "results"                    # папка для результа�
 ### 3. Запусти
 
 ```bash
-python mv_scanner.py
+python App.py
 ```
 
 ---
